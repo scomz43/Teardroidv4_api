@@ -1,1 +1,1 @@
-USER_AGENT = "teardroid"
+USER_AGENT = "SICSR"
